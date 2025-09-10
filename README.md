@@ -1,6 +1,10 @@
 API de Gestión de Bibliotecas – Punto 3
 Diseñe e implemente un sistema de gestión de bibliotecas sencillo con clases para libros, bibliotecas y miembros.
 
+php: 8.2.1
+mysql: 8.0.30
+laravel 12
+
 Este proyecto implementa una **API REST con Laravel 12** para gestionar:
 
 - **Bibliotecas (Libraries)**
